@@ -3,6 +3,8 @@
 Problem Description
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 
+![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3832382f302a626570645979707465524766714a59502e6a7067](https://user-images.githubusercontent.com/73479133/202295043-dfbcfde6-46ea-4902-b383-1651dc1e4157.jpeg)
+
 
 
 Data Description
